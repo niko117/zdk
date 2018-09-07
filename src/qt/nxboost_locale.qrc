@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/nxboost_bg.qm</file>
+        <file alias="de">locale/nxboost_de.qm</file>
+        <file alias="en">locale/nxboost_en.qm</file>
+        <file alias="es">locale/nxboost_es.qm</file>
+        <file alias="fi">locale/nxboost_fi.qm</file>
+        <file alias="fr">locale/nxboost_fr.qm</file>
+        <file alias="it">locale/nxboost_it.qm</file>
+        <file alias="ja">locale/nxboost_ja.qm</file>
+        <file alias="pl">locale/nxboost_pl.qm</file>
+        <file alias="pt">locale/nxboost_pt.qm</file>
+        <file alias="ru">locale/nxboost_ru.qm</file>
+        <file alias="sk">locale/nxboost_sk.qm</file>
+        <file alias="sv">locale/nxboost_sv.qm</file>
+        <file alias="vi">locale/nxboost_vi.qm</file>
+        <file alias="zh_CN">locale/nxboost_zh_CN.qm</file>
+        <file alias="zh_TW">locale/nxboost_zh_TW.qm</file>
+    </qresource>
+</RCC>
